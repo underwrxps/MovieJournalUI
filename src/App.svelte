@@ -12,16 +12,16 @@
 
   let user = {
     username: "username",
-    entries: [{name: "Movie",
-               genre: "Action",
-               runtime: 100,
-               date: "2002-06-08",
-               thoughts: "thoughts"},
-              {name: "Other Movie",
+    entries: [{name: "Halloween",
                genre: "Horror",
-               runtime: 85,
-               date: "2023-01-01",
-               thoughts: "other thoughts"}]
+               runtime: 91,
+               date: "2023-10-31",
+               thoughts: "My favorite horror movie for this time of year, not just because the name lol."},
+              {name: "The Thing",
+               genre: "Horror",
+               runtime: 109,
+               date: "2023-11-04",
+               thoughts: "This movie makes you think about how much you trust your friends, and the importance of the relationships you form with others."}]
   }
 
   // genre counts
