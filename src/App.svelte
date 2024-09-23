@@ -334,10 +334,9 @@
 
     <div id="PreviousEntriesSection">
       <h2 style="color: {headerColor}">Previous Entries:</h2>
-      <p></p>
-      <PreviousEntry bind:mName={prevName} bind:mGenre={prevGenre} bind:mRuntime={prevRuntime} bind:mDate={prevDate} bind:mThoughts={prevThoughts}/>
       <button id="previousEntriesPrevButton" on:click={decrementEntry}>Prev Entry</button>
       <button id="previousEntriesNextButton" on:click={incrementEntry}>Next Entry</button>
+      <PreviousEntry bind:mName={prevName} bind:mGenre={prevGenre} bind:mRuntime={prevRuntime} bind:mDate={prevDate} bind:mThoughts={prevThoughts}/>
     </div>
 
     <div id="EditEntrySection">
