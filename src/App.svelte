@@ -21,7 +21,13 @@
                genre: "Horror",
                runtime: 109,
                date: "2023-11-04",
-               thoughts: "This movie makes you think about how much you trust your friends, and the importance of the relationships you form with others."}]
+               thoughts: "This movie makes you think about how much you trust your friends, and the importance of the relationships you form with others."},
+              {name: "Scanners",
+               genre: "Horror Sci-Fi",
+               runtime: 97,
+               date: "2023-11-11",
+               thoughts: "I wonder what I'd do in a situation where I had powers like this, I don't think I'd go to the lengths that Darryl Revok does, but that power must change a person."}
+              ]
   }
 
   // genre counts
